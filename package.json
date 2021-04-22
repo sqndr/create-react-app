@@ -53,5 +53,6 @@
     "*.{js,json,yml,yaml,css,scss,ts,tsx,md}": [
       "prettier --write"
     ]
-  }
+  },
+  "version": "2.0.0-rc.1"
 }
