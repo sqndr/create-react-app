@@ -86,7 +86,6 @@ module.exports = {
   ownTypeDeclarations: resolveOwn('lib/react-app.d.ts'),
 };
 
-const ownPackageJson = require('../package.json');
 
 module.exports.moduleFileExtensions = moduleFileExtensions;
 module.exports.magicConfig = magicConfig;
